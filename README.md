@@ -1,6 +1,6 @@
 ### **News Article Classification Task using SOTA models**
 
-<img src="https://github.com/pathakchiranjit/Natural-languge-Processing/blob/main/pics/title.jpg?raw=true" align='center'><br/>
+<img src="https://github.com/pathakchiranjit/NLP_accuracy_training_tradeoff_SOTA_models/blob/main/pics/title.jpg?raw=true" align='center'><br/>
 
 **Data Source:**
 
@@ -17,7 +17,7 @@ The model trained on this dataset could be used to identify tags for untracked n
 
 While there are plenty of articles on the internet about the **state of the art BERT** algorithm and its applications , its probably also important to understand the journey of the Natural Language Processing science from a rather primitive form to what it is now. There has been fair number of milestones in the way in form of novel techniques ranging from embedding techniques, improved language models, neural architectures and so on.
 
-<img src="https://github.com/pathakchiranjit/Natural-languge-Processing/blob/main/pics/NLP_models.png?raw=true" align='center'><br/>
+<img src="https://github.com/pathakchiranjit/NLP_accuracy_training_tradeoff_SOTA_models/blob/main/pics/NLP_models.png?raw=true" align='center'><br/>
 
 
 **BERT and its natives**
@@ -32,7 +32,7 @@ Google’s BERT and recent transformer-based methods have taken the NLP landscap
 
 [DistilBERT](https://arxiv.org/pdf/1910.01108.pdf) learns a distilled (approximate) version of BERT, retaining 97% performance but using only half the number of parameters (paper). Specifically, it does not has token-type embeddings, pooler and retains only half of the layers from Google’s BERT. DistilBERT uses a technique called distillation, which approximates the Google’s BERT, i.e. the large neural network by a smaller one.
 
-<img src="https://github.com/pathakchiranjit/Natural-languge-Processing/blob/main/pics/model_descriptions.png?raw=true" align='center'><br/>
+<img src="https://github.com/pathakchiranjit/NLP_accuracy_training_tradeoff_SOTA_models/blob/main/pics/model_descriptions.png?raw=true" align='center'><br/>
 
 
 ## Table of Contents
