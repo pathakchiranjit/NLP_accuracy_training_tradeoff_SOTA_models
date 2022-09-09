@@ -12,6 +12,8 @@ This dataset contains around 200k news headlines from the year 2012 to 2018 obta
 
 The model trained on this dataset could be used to identify tags for untracked news articles or to identify the type of language used in different news articles.
 
+**RESULT**
+<img src="https://github.com/pathakchiranjit/NLP_accuracy_training_tradeoff_SOTA_models/blob/main/pics/model_eval.png?raw=true" align='center'><br/>
 
 **Brief History of NLP world**
 
